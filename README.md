@@ -1,5 +1,5 @@
-# <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/handWave.png" width="50"> Hey there! I'm Alexander :smiley: 
-<img src="https://ru.pinterest.com/pin/833869687270809831/">
+# <img src="https://github.com/AnkLive/AnkLive/blob/main/assets/handWave.png" width="50"> Hey there! I'm Misha :smiley: 
+<img src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 ## Welcome to my profile :man_technologist:
 
