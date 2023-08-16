@@ -5,7 +5,7 @@
 
 ## My skills:
 
-<code><img height="35" alt="CSharp" title="CSharp" src="https://github.com/AnkLive/AnkLive/blob/main/assets/CSharp.png"></code>
+<code><img height="35" alt="HTML" title="HTML" src=""></code>
 <code><img height="35" alt="Git" title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="35" alt="GitHub" title="GitHub" src="https://github.com/AnkLive/AnkLive/blob/main/assets/github.png"></code>
 <code><img height="35" alt="Unity" title="Unity" src="https://github.com/AnkLive/AnkLive/blob/main/assets/unity.png"></code>
